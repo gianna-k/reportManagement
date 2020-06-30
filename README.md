@@ -1,14 +1,14 @@
 JAVA와 MYSQL DB를 활용한 과제관리 프로그램입니다.
 
-실행 파일 다운로드 - [exe파일 다운로드](https://github.com/gianna-k/reportManagement/raw/master/project.exe)
+*실행 파일 다운로드 - [exe파일 다운로드](https://github.com/gianna-k/reportManagement/raw/master/project.exe)
 
-테스트용 아이디/비밀번호 - (학생) 321 / 321 , (강사) 123, 123
+*테스트용 아이디/비밀번호 - (학생) 321 / 321 , (강사) 123, 123
 
-Youtube Link - 준비중
+*Youtube Link - 준비중
 
-개발 기간 - 2020.05.01 ~ 2020.06.30 (약 2개월)
-개발 환경 - JAVA , MYSQL
-개발 인원 - 4 명
+*개발 기간 - 2020.05.01 ~ 2020.06.30 (약 2개월)
+*개발 환경 - JAVA , MYSQL
+*개발 인원 - 4 명
 
 요   약>
 학교나 학원 등에서 과제를 관리할 때 활용할 수 있는 프로그램입니다. 
