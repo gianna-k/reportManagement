@@ -1,6 +1,6 @@
 JAVA와 MYSQL DB를 활용한 과제관리 프로그램입니다.
 
-실행 파일 다운로드 - [구글드라이브에서 exe파일 다운로드](https://drive.google.com/file/d/1_xkvcUqZ3kc2fhO5pH5gJaiFiJSoIGHp/view?usp=sharing)
+실행 파일 다운로드 - [exe파일 다운로드](https://github.com/gianna-k/reportManagement/raw/master/project.exe)
 
 테스트용 아이디/비밀번호 - (학생) 321 / 321 , (강사) 123, 123
 
