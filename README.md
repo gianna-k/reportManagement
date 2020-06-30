@@ -1,7 +1,7 @@
 JAVA와 MYSQL DB를 활용한 과제관리 프로그램입니다.
 
-실행 파일 다운로드 > 
-테스트 아이디/비밀번호> (학생) 321 / 321 , (강사) 123, 123
+실행 파일 다운로드 > [구글드라이브에서 다운로드](https://drive.google.com/file/d/1_xkvcUqZ3kc2fhO5pH5gJaiFiJSoIGHp/view?usp=sharing)
+테스트용 아이디/비밀번호> (학생) 321 / 321 , (강사) 123, 123
 
 개발 기간	> 2020.05.01 ~ 2020.06.30 (약 2개월)
 개발 환경	> JAVA , MYSQL
