@@ -4,8 +4,6 @@ JAVA와 MYSQL DB를 활용한 과제관리 프로그램입니다.
 
 *테스트용 아이디/비밀번호 - (학생) 321 / 321 , (강사) 123, 123
 
-*Youtube Link - 준비중
-
 *개발 기간 - 2020.05.01 ~ 2020.06.30 (약 2개월)
 
 *개발 환경 - JAVA , MYSQL
@@ -23,6 +21,7 @@ JAVA와 MYSQL DB를 활용한 과제관리 프로그램입니다.
 3)	회원가입, 조회, 로그인
 
 담당한 구현 내용>
+[pptx파일 25-32 슬라이드(https://github.com/gianna-k/reportManagement/raw/master/4%EC%A1%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B0%9C%ED%91%9C.pptx)
 1)	과제 화면 구현
 -	강의별 과제 목록 조회 기능
 -	기간별 과제 조회 기능 구현
