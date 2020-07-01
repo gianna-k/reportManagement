@@ -21,7 +21,7 @@ JAVA와 MYSQL DB를 활용한 과제관리 프로그램입니다.
 3)	회원가입, 조회, 로그인
 
 담당한 구현 내용>
-[pptx 보기](https://github.com/gianna-k/reportManagement/blob/master/4%EC%A1%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B0%9C%ED%91%9C-%EA%B9%80%EC%A7%80%ED%98%84.pdf)
+[pdf 보기](https://github.com/gianna-k/reportManagement/blob/master/4%EC%A1%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B0%9C%ED%91%9C-%EA%B9%80%EC%A7%80%ED%98%84.pdf)
 1)	과제 화면 구현
 -	강의별 과제 목록 조회 기능
 -	기간별 과제 조회 기능 구현
